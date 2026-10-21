@@ -1,0 +1,6 @@
+# Copy values into ~/.gradle/gradle.properties or configure them as CI secrets.
+# Do not commit an actual keystore or passwords.
+NIVA_RELEASE_STORE_FILE=/absolute/path/to/niva-release.jks
+NIVA_RELEASE_STORE_PASSWORD=replace-me
+NIVA_RELEASE_KEY_ALIAS=niva
+NIVA_RELEASE_KEY_PASSWORD=replace-me
