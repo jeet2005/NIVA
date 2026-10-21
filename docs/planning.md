@@ -1,5 +1,7 @@
 # Planning
 
+Canonical checkout and reconciliation details are in [repository-reconciliation.md](repository-reconciliation.md). The latest reproducible command and APK evidence is in [acceptance-status.md](acceptance-status.md).
+
 The planning engine is deterministic. Given calendar events, preparation duration, travel duration, and a buffer, it calculates:
 
 - wake time
